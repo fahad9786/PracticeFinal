@@ -1,0 +1,10 @@
+2025-04-09T19:53:46+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 2574472 bytes) in /workspaces/PracticeFinal/.wordpress/wp-includes/class-wp-image-editor-gd.php on line 100
+
+2025-04-09T19:53:47+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 2574472 bytes) in /workspaces/PracticeFinal/.wordpress/wp-includes/class-wp-image-editor-gd.php on line 100
+
+2025-04-09T19:53:48+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 2574472 bytes) in /workspaces/PracticeFinal/.wordpress/wp-includes/class-wp-image-editor-gd.php on line 100
+
+2025-04-09T19:53:48+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 2574472 bytes) in /workspaces/PracticeFinal/.wordpress/wp-includes/class-wp-image-editor-gd.php on line 100
+
+2025-04-09T19:53:48+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 2574472 bytes) in /workspaces/PracticeFinal/.wordpress/wp-includes/class-wp-image-editor-gd.php on line 100
+
