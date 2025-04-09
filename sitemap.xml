@@ -27,11 +27,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/login/
         </loc>
     </url>
@@ -42,7 +37,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/about-us/
+            http://localhost:8000/
         </loc>
     </url>
     <url>
