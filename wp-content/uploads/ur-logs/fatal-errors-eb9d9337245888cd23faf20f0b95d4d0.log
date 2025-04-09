@@ -1,0 +1,118 @@
+2025-04-09T19:53:46+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 2574472 bytes) in /workspaces/PracticeFinal/.wordpress/wp-includes/class-wp-image-editor-gd.php on line 100
+
+2025-04-09T19:53:47+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 2574472 bytes) in /workspaces/PracticeFinal/.wordpress/wp-includes/class-wp-image-editor-gd.php on line 100
+
+2025-04-09T19:53:48+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 2574472 bytes) in /workspaces/PracticeFinal/.wordpress/wp-includes/class-wp-image-editor-gd.php on line 100
+
+2025-04-09T19:53:48+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 2574472 bytes) in /workspaces/PracticeFinal/.wordpress/wp-includes/class-wp-image-editor-gd.php on line 100
+
+2025-04-09T19:53:48+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 2574472 bytes) in /workspaces/PracticeFinal/.wordpress/wp-includes/class-wp-image-editor-gd.php on line 100
+
+2025-04-09T20:23:46+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:46+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:46+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:46+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:49+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:49+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:49+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:49+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:52+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:52+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:52+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:53+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:53+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:53+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:53+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:23:54+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:02+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:03+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:03+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:03+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:03+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:04+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:04+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:04+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:05+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:05+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:06+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:06+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:06+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:06+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:07+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:07+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:11+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:11+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:11+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:12+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:12+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:12+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:13+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:13+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:13+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:13+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:14+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:14+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:14+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1243
+
+2025-04-09T20:24:17+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:17+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:18+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:18+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1252
+
+2025-04-09T20:24:21+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1243
+
+2025-04-09T20:24:28+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1243
+
+2025-04-09T20:24:33+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1243
+
+2025-04-09T20:24:34+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 1243
+
+2025-04-09T20:24:40+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/PracticeFinal/.wordpress/wp-admin/includes/class-wp-site-health.php on line 101
+
